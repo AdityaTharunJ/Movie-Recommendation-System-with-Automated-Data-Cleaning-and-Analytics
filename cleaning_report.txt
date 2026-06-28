@@ -1,0 +1,58 @@
+
+=========================================
+MOVIE DATA CLEANING REPORT
+=========================================
+
+Initial Rows            : 1009
+
+Final Rows              : 1008
+
+Duplicate Rows Removed  : 0
+
+-----------------------------------------
+Missing Values Before
+-----------------------------------------
+
+Poster_Link        9
+Series_Title       1
+Released_Year     10
+Certificate      112
+Runtime           14
+    Genre          9
+IMDB_Rating       12
+Overview          10
+Meta_score       168
+Director           9
+Star1             10
+Star2              9
+Star3              9
+Star4              9
+No_of_Votes        9
+Gross            181
+dtype: int64
+
+-----------------------------------------
+Missing Values After
+-----------------------------------------
+
+Poster_Link      0
+Series_Title     0
+Released_Year    0
+Certificate      0
+Runtime          0
+Genre            0
+IMDB_Rating      0
+Overview         0
+Meta_score       0
+Director         0
+Star1            0
+Star2            0
+Star3            0
+Star4            0
+No_of_Votes      0
+Gross            0
+dtype: int64
+
+=========================================
+Cleaning Completed Successfully
+=========================================
