@@ -1,0 +1,19 @@
+Software Requirements:
+Python 3.9 or later
+Visual Studio Code / PyCharm / Jupyter Notebook / Google Colab
+Git (optional, for version control)
+     
+Python Libraries:
+pandas
+numpy
+matplotlib
+seaborn
+     
+Dataset:
+IMDb Top 1000 Movies Dataset (imdb_top_1000.csv)
+     
+Hardware Requirements:
+Processor: Intel Core i3 or equivalent
+RAM: Minimum 4 GB
+Storage: At least 200 MB free space
+Operating System: Windows, Linux, or macOS
