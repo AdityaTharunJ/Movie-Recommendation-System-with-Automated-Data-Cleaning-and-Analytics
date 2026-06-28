@@ -291,9 +291,9 @@ This histogram shows the distribution of IMDb ratings across all movies in the d
 
 Insights:
 
-Most movies have IMDb ratings between 7.5 and 8.2.
-Very few movies have ratings above 9.0, highlighting their rarity.
-The distribution is slightly right-skewed, indicating that exceptionally high-rated movies are uncommon.
+* Most movies have IMDb ratings between 7.5 and 8.2.
+* Very few movies have ratings above 9.0, highlighting their rarity.
+* The distribution is slightly right-skewed, indicating that exceptionally high-rated movies are uncommon.
 
 2. IMDb Ratings Distribution Across Genres
 
@@ -301,10 +301,10 @@ A box plot was generated to compare IMDb ratings across different movie genres.
 
 Insights:
 
-Most genres have median IMDb ratings around 8.0.
-Some genres, such as Drama and Biography, tend to have slightly higher ratings.
-Outliers represent critically acclaimed movies with exceptionally high IMDb ratings.
-The visualization helps compare rating consistency across genres.
+* Most genres have median IMDb ratings around 8.0.
+* Some genres, such as Drama and Biography, tend to have slightly higher ratings.
+* Outliers represent critically acclaimed movies with exceptionally high IMDb ratings.
+* The visualization helps compare rating consistency across genres.
 ---
 
 ## 📈 Exploratory Data Analysis (EDA)
